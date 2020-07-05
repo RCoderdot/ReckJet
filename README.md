@@ -1,2 +1,2 @@
-# ReckJet
-The more you Reck, the more you fly. ReckJet.
+# ReckAir
+The more you Reck, the more you fly. ReckAir.
